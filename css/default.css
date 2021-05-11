@@ -2,13 +2,12 @@ body
 	{
 		margin: 0px;
 		padding: 0px;
-		background: url('.././images/background_1.jpg')!important;
+		background: url('.././images/123.png')!important;
 		background-size: cover!important;
 		font-family: 'Varela', sans-serif;
 		font-size: 11pt;
 		font-weight: 300;
 	}
-	
 	
 	h1, h2, h3
 	{
@@ -16,6 +15,10 @@ body
 		padding: 0;
 		font-weight: 700;
 		color: #2B3F48;
+	}
+
+	h3 {
+		color: ;
 	}
 	
 	p, ol, ul
@@ -216,7 +219,8 @@ body
 	.title h2
 	{
 		text-transform: uppercase;
-		font-size: 2.7em;
+		font-size: 3.2em;
+		color: #fff600;
 	}
 	
 	.title .byline
@@ -589,7 +593,7 @@ body
 	}
 	
 	#copyright {
-		background: #0089ff;
+		background: #E5364E;
 	}
 	
 	.cover {
@@ -673,7 +677,7 @@ body
 	height: 5px;
 	width: 180px;
 	border-radius: 10px;
-	background: blue;
+	background: #DD2159;
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 15px;
