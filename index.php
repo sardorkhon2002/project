@@ -29,16 +29,16 @@
 					<div class="row" style="margin-bottom: 100px;">
 					<h3 style="text-align: center;">Entertainment tickets</h3>
 						<div class="col-md-12">
-						<div class="col-md-4 hovered" style="min-height:300px; background-image:url('files/theatre.png')">
+						<div class="col-md-4 hovered" style="min-height:300px; background-image:url('images/concerts.jpg')">
 							<a href="?t">
-								<!--img src="/files/theatre.png" height="100%" width="100%" /-->
+								<!--img src="/images/theatre.png" height="100%" width="100%" /-->
 								<div class="cover">Concerts</div>
 							</a>
 						</div>
-						<div class="col-md-4 hovered" style="min-height:300px; background-image:url('files/theatre.png')">
+						<div class="col-md-4 hovered" style="min-height:300px; background-image:url('images/theatre.jpg')">
 							<a href="?tt">
 								<!--img src="/files/concerts.png" height="352px" width="100%" /-->
-								<div class="cover">Teaters</div>
+								<div class="cover">Theaters</div>
 							</a>
 						</div>
 						<div class="col-md-4 hovered" style="min-height:300px; background-image:url('files/theatre.png')">
