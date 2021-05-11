@@ -646,9 +646,9 @@
 	}
 	
 	.hovered {
-		background-size: 100%;
+		background-size: cover;
 		background-repeat: no-repeat;
-		transition: background-size 0.6s;
+		transition: background-size 1.5s;
 		padding-right: 10px;
 		border: 5px solid #fff;
 	}
@@ -660,7 +660,7 @@
 	}
 	
 	.hovered:hover {
-		background-size:125%;
+		transition: background-size: 0.6s;
 	}
 	
 	.reset {
