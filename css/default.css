@@ -612,6 +612,7 @@
 		text-align: center;
 		display:none;
 		transition: display 0.6s;
+		border-radius: 20px;
 	}
 	
 	.cover2 {
@@ -629,10 +630,12 @@
 		opacity:0;
 		transition: opacity 0.8s;
 		height: 150px;
+
 	}
 	
 	.hovered {
-		padding: 0;
+		padding: 0px;
+
 	}
 	
 	.hovered:hover > a .cover {
@@ -661,6 +664,7 @@
 	
 	.hovered:hover {
 		transition: background-size: 0.6s;
+		padding-left: 30px;
 	}
 	
 	.reset {

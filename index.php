@@ -26,49 +26,41 @@
 					else{
 				?>
 
-					<div class="row" style="margin-bottom: 100px;">
+					<div  style="margin-bottom: 100px;">
 					<h3 style="text-align: center;">Entertainment tickets</h3>
 						<div class="col-md-12">
-						<div class="col-md-4 hovered w-100" style="min-height:200px; background-image:url('images/concerts.jpg')">
+						<div class="col-md-4 hovered w-100" style="min-height:200px;border-radius:20px; background-image:url('images/concerts.jpg')">
 							<a href="?t">
-								<!--img src="/images/theatre.png" height="100%" width="100%" /-->
 								<div class="cover">Concerts</div>
 							</a>
 						</div>
-						<div class="col-md-4 hovered" style="min-height:200px; background-image:url('images/theatre.jpg')">
+						<div class="col-md-4 hovered" style="min-height:200px; border-radius:20px; background-image:url('images/theatre.jpg')">
 							<a href="?tt">
-								<!--img src="/files/concerts.png" height="352px" width="100%" /-->
 								<div class="cover">Theaters</div>
 							</a>
 						</div>
-						<div class="col-md-4 hovered" style="min-height:200px; background-image:url('files/theatre.png')">
+						<div class="col-md-4 hovered" style="min-height:200px; border-radius:20px; background-image:url('images/football.jpg')">
 							<a href="?ttt">
-								<!--img src="/files/theatre.png" height="100%" width="100%" /-->
 								<div class="cover">Football</div>
 							</a>
 						</div>
 						</div>
 					</div>
-					<div class="row" style="margin-bottom: 100px;">
+					<div style="margin-bottom: 100px;">
 					<h3 style="text-align: center;">Transport tickets</h3>
 						<div class="col-md-12">
-						<div class="col-md-4 hovered" style="min-height:200px; background-image:url('files/theatre.png')">
+						<div class="col-md-4 hovered" style="min-height:200px; border-radius:20px; background-image:url('images/avia.jpg')">
 							<a href="?tttt">
-								<!--img src="/files/theatre.png" height="100%" width="100%" /-->
 								<div class="cover">Avia</div>
 							</a>
 						</div>
-						<div class="col-md-4 hovered" style="min-height:200px; background-image:url('files/theatre.png')">
+						<div class="col-md-4 hovered" style="min-height:200px; border-radius:20px; background-image:url('images/railways.jpg')">
 							<a href="?ttttt">
-
-								<!--img src="/files/concerts.png" height="352px" width="100%" /-->
 								<div class="cover">Railways</div>
 							</a>
 						</div>
-						<div class="col-md-4 hovered" style="min-height:200px; background-image:url('files/theatre.png')">
+						<div class="col-md-4 hovered" style="min-height:200px; border-radius:20px; background-image:url('images/bus.png')">
 							<a href="?tttttt">
-
-								<!--img src="/files/theatre.png" height="100%" width="100%" /-->
 								<div class="cover">Public transport</div>
 							</a>
 						</div>
