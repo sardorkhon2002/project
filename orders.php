@@ -6,7 +6,7 @@
 <?php if(isset($_SESSION['uid']) && $_SESSION['uid'] != 1){print '<META http-equiv="refresh" content="0;URL=index.php">';} ?>
 	<div id="extra" class="container">
 		<div class="title">
-			<h2>Buyurtmalar</h2>
+			<h2>Orders</h2>
 		</div>
 		<div class="row">
 			<div class='col-md-12'>

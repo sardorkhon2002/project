@@ -9,15 +9,15 @@
 		<div class="col-md-3">
 			<form method="post" name="login_form" action="actions.php">
 				<div>
-					<label for="email">Loginingiz</label>
-					<input type="text" name="email" id="email" placeholder="emailingiz" class="form-control form-text" />
+					<label for="email">Email</label>
+					<input type="text" name="email" id="email" placeholder="email" class="form-control form-text" />
 				</div>
 				<div>
-					<label for="password">Parolingiz</label>
-					<input type="password" id="password" name="password" placeholder="parolingiz" class="form-control form-text" />
+					<label for="password">Password</label>
+					<input type="password" id="password" name="password" placeholder="password" class="form-control form-text" />
 				</div>
 				<div>
-					<input type="submit" class="btn btn-primary" id="login" value="Kirish" />
+					<input type="submit" class="btn btn-primary" id="login" value="Submit" />
 				</div>
 				<input type="hidden" name="form_id" value="login_form" />
 			</form>

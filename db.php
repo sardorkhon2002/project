@@ -3,9 +3,9 @@
 <link rel="stylesheet" type="text/css" href="css/fonts.css">
 
 <?php 
-$dbname = "tiketshop";
-$dbuser = "root";
-$dbpassword = "2763553Aa!O@d12345zxc+";
+$dbname = "tickets";
+$dbuser = "lakers";
+$dbpassword = "D0HBw4ZiEO6USxj4";
 $hostname = "localhost";
 
 $mysqli = new mysqli($hostname, $dbuser, $dbpassword, $dbname);
