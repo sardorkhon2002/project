@@ -1,17 +1,12 @@
-	html, body
-	{
-		height: 100%;
-	}
-	
-	body
+body
 	{
 		margin: 0px;
 		padding: 0px;
-		background: #333333;
+		background: url('.././images/background_1.jpg')!important;
+		background-size: cover!important;
 		font-family: 'Varela', sans-serif;
 		font-size: 11pt;
 		font-weight: 300;
-		color: #656565;
 	}
 	
 	
@@ -300,7 +295,6 @@
 	
 	#wrapper
 	{
-		background: #FFF;
 		min-height: 465px;
 	}
 
@@ -310,7 +304,7 @@
 
 	#header-wrapper
 	{
-		background: white;
+
 	}
 
 	#header
@@ -612,7 +606,7 @@
 		text-align: center;
 		display:none;
 		transition: display 0.6s;
-		border-radius: 20px;
+		border-radius: 19px!important;
 	}
 	
 	.cover2 {
@@ -674,3 +668,14 @@
 		box-shadow: none;
 	    background-color: transparent;
 	}
+
+	.container .row .line {
+	height: 5px;
+	width: 180px;
+	border-radius: 10px;
+	background: blue;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 15px;
+	margin-top: 4px;
+}

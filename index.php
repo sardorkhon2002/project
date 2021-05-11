@@ -26,10 +26,13 @@
 					else{
 				?>
 
-					<div  style="margin-bottom: 100px;">
-					<h3 style="text-align: center;">Entertainment tickets</h3>
+					<div  style="margin-bottom: 250px;">
+						<div style="margin-bottom: 20px">
+							<h3 style="text-align: center; font-size: 30px">Entertainment tickets</h3>
+							<div class="line"></div>
+						</div>
 						<div class="col-md-12">
-						<div class="col-md-4 hovered w-100" style="min-height:200px;border-radius:20px; background-image:url('images/concerts.jpg')">
+						<div class="col-md-4 hovered" style="min-height:200px;border-radius:20px; background-image:url('images/concerts.jpg')">
 							<a href="?t">
 								<div class="cover">Concerts</div>
 							</a>
@@ -47,7 +50,10 @@
 						</div>
 					</div>
 					<div style="margin-bottom: 100px;">
-					<h3 style="text-align: center;">Transport tickets</h3>
+						<div style="margin-bottom: 20px">
+							<h3 style="text-align: center; font-size: 30px">Transport tickets</h3>
+							<div class="line"></div>
+						</div>
 						<div class="col-md-12">
 						<div class="col-md-4 hovered" style="min-height:200px; border-radius:20px; background-image:url('images/avia.jpg')">
 							<a href="?tttt">
@@ -72,7 +78,6 @@
 
 
 ?>
-		</div>
 		</div>
 	</div>
 <?php require_once("footer.php"); ?>
