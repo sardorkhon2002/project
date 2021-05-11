@@ -310,7 +310,7 @@
 
 	#header-wrapper
 	{
-		background: rgba(242, 36, 21, 0.84)
+		background: white;
 	}
 
 	#header
@@ -326,20 +326,14 @@
 	#logo
 	{
 		position: absolute;
-		top: 1em;
+		top: 10;
 		left: 0;
 	}
 	
-	#logo h1
-	{
-		color: #FFF;
-	}
-	
-	#logo a
-	{
-		text-decoration: none;
-		text-transform: uppercase;
-		color: #FFF;
+	#logo a img {
+		position: relative;
+		top: 5;
+		width: 60%;
 	}
 
 /*********************************************************************************/
@@ -367,17 +361,18 @@
 	
 	#menu li a, #menu li span
 	{
-		padding: 1em 1.5em;
+		padding: 1em;
 		letter-spacing: 1px;
 		text-decoration: none;
 		text-transform: uppercase;
-		font-size: 0.8em;
-		color: #FFF;
+		font-size: 1em;
+		font-weight: 600;
+		color: #000;
 	}
 	
 	#menu li:hover a, #menu li.active a, #menu li.active span
 	{
-		color: #FFF;
+		color: #e8104c;
 	}
 	
 	#menu .current_page_item a
@@ -474,14 +469,14 @@
 	#copyright
 	{
 		overflow: hidden;
-		padding: 5em 0em;
+		padding: 3em 0em;
 		border-top: 1px solid rgba(255,255,255,0.08);
 	}
 	
 	#copyright p
 	{
 		text-align: center;
-		font-size: 1em;
+		font-size: 1.5em;
 		color: rgba(255,255,255,1);
 	}
 	
@@ -600,7 +595,7 @@
 	}
 	
 	#copyright {
-		background: orange;
+		background: #0089ff;
 	}
 	
 	.cover {
