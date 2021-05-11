@@ -5,7 +5,7 @@
 </div>
 <div id="copyright" class="container-fluid">
 	<p>&copy; 2021 All rights reserved.</p>
-	<p>Developed by Lakers Team</p>
+	<p style="font-size: 1.2em;">Developed by Lakers Team</p>
 </div>
 </body>
 </html>

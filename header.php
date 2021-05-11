@@ -21,7 +21,7 @@
 			<div id="header-wrapper">
 				<div id="header" class="container">
 					<div id="logo">
-						<h1><a href="/"><img src="files/logo.png" /></a></h1>
+						<a href="/"><img src="files/logo2.png" /></a>
 					</div>
 					<div id="menu">
 						<ul>
