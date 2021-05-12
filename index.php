@@ -20,7 +20,7 @@ require "header.php";
 <section id="aboutus">
 
  <div class="container">
-   <h3 class="text-center"><br><br>Ram & Sayam</h3>
+   <h3 class="text-center"><br><br>Lakers</h3>
    <div class="row">
 <!--carousel-->
      <div class="col-sm"><br><br>
@@ -57,9 +57,8 @@ require "header.php";
      <div class="col-sm">
     	<div class="arranging"><br><hr>
 	<h4 class="text-center">Our Story</h4>
-	<p><br>The restaurant Kashipara, first opened in 2012.<br><br>
-	The same year, the restaurant relocated to the 6th floor of the Onassis Cultural Centre in Syngrou Avenue and was recently redesigned by award-winning architectural firm Divercity.In warmer months of the year the restaurant moves
-	to the 7th floor of the building, offering a unique outdoor setting with panoramic view of the Acropolis, Lycebettus hill and the city skyline.<br><br><br></p><hr>
+	<p><br>The restaurant Lakers, first opened in 2021.<br><br>
+	The restaurant was founded by two brothers Ubaydullaev Bekhzod and Tursunkhodjaev Sardorkhon. The restaurant located in the 1th floor of the Inha University in Tashkent and designed by award-winning architectural firm Beauty.<br><br><br></p><hr>
 	</div>
      </div>
     </div><br>
@@ -112,7 +111,7 @@ require "header.php";
     <h3 class="text-center"><br><br>Find us!</h3><br>
         
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d471218.38559717475!2d88.04952484283037!3d22.676385756918386!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f882db4908f667%3A0x43e330e68f6c2cbc!2sKolkata%2C%20West%20Bengal!5e0!3m2!1sen!2sin!4v1601218940425!5m2!1sen!2sin" width="1200" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2995.6359508726323!2d69.33234131483745!3d41.33852900698657!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38aef48a8ed4d0e9%3A0x3772abeffc72e7b8!2z0KPQvdC40LLQtdGA0YHQuNGC0LXRgiDQmNC90YXQsA!5e0!3m2!1sru!2s!4v1620823284657!5m2!1sru!2s" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 
         <div class="row staff">
@@ -191,7 +190,7 @@ $date= $_POST['date'];
 
             <div class="col">
             <h4 class="text-right"><strong>Visit Us</strong></h4>
-            <p class="text-right">Ram & Sayam<br><i class="fa fa-map-marker"></i>&nbsp; Kolkata-700 002, <br>WB <br><br>email: info@domain.com<br>phone: +91 ...........</p>
+            <p class="text-right">Lakers<br><i class="fa fa-map-marker"></i>&nbsp; 9-Ziyolilar ko'chasi, <br><br>email: info@lakers.com<br>phone: +998 909004336</p>
             </div>
 
 	</div>

@@ -2,7 +2,7 @@
 {
 	margin:0;
 	padding:0;
-        font-family: "Times New Roman", Times, serif;
+    /*font-family: "Times New Roman", Times, serif;*/
 }
 
 /*body*/
@@ -15,6 +15,14 @@ body
 
 h3{
     text-shadow: 2px 1px grey;
+}
+
+.arranging p {
+	font-size: 1.2em;
+}
+
+.arranging h4 {
+	font-size: 1.5em;
 }
 
 /*headers*/
@@ -42,7 +50,7 @@ h3{
 }
 
 .navbar-brand {
-font-family: "Brush Script MT", "Brush Script Std", cursive;
+/*font-family: "Brush Script MT", "Brush Script Std", cursive;*/
 }
 
 .navbar .navbar-nav .active{

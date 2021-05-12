@@ -21,10 +21,6 @@
 .flex-column { 
        max-width : 260px;
    }
-           
-.container {
-            background: #f9f9f9;
-        }
       
 .img {
             margin: 5px;
@@ -43,7 +39,7 @@
 <nav class="navbar navbar-expand-md navbar-light fixed-top">
         <div class="container">
             <a class="navbar-brand" href="index.php">
-		<strong><em>Ram & Sayam</em></strong>
+		<strong><em>Lakers</em></strong>
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navi">
                 <span class="navbar-toggler-icon"></span>

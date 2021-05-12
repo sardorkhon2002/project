@@ -10,8 +10,8 @@
         <a href="index.php"><i class="fa fa-rss"></i></a>
       </div>
       <div class="copyright">
-        <p class="white"> copyright &copy; <b>kashipara Restaurant</b></p>
-        <p><i class="fa fa-phone"></i> +91 ...... &nbsp;<i class="fa fa-envelope-o"></i> info@domain.com</p>
+        <p class="white"> copyright &copy; <b>Lakers Restaurant</b></p>
+        <p><i class="fa fa-phone"></i> +998 909004336 &nbsp;<i class="fa fa-envelope-o"></i> info@lakers.com</p>
       </div>
     </div>
   </div>
