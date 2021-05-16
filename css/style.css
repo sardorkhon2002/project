@@ -28,7 +28,7 @@ h3{
 /*headers*/
 .header
 {
-	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../img/1.jpg);
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../images/nusr.jpg);
 	height:80vh;
 	background-position:center;
 	background-size:cover;
@@ -36,7 +36,7 @@ h3{
 
 .header2
 {
-	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../img/6.jpeg);
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../images/nusr.jpg);
 	height:40vh;
 	background-position:center;
 	background-size:cover;
@@ -119,6 +119,10 @@ color:black;
 	margin:0 auto;
 	margin-top:20px;
 }
-
-
+.pic{
+	width: 200px;!important;
+	height: 175px;!important;
+	margin: 5px;
+	border-radius: 10px;
+}
 

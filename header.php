@@ -5,7 +5,7 @@
 <html lang="en">
 <head>
 <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">    <!--favicon-->
-<title>Kashipara Restaurant</title>
+<title>Lakers Steakhouse </title>
 <meta charset="utf-8">
  <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="css/style.css" rel="stylesheet" type="text/css">     <!--style.css document-->

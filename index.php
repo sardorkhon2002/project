@@ -32,13 +32,13 @@ require "header.php";
          </ol>
         <div class="carousel-inner">
            <div class="carousel-item active">
-             <img class="d-block w-100" src="img/3.jpeg" alt="First slide">
+             <img class="d-block w-100" src="images/burger7.jpg" alt="First slide">
            </div>
            <div class="carousel-item">
-           <img class="d-block w-100" src="img/4.jpeg" alt="Second slide">
+           <img class="d-block w-100" src="images/stake1.png" alt="Second slide">
            </div>
            <div class="carousel-item">
-           <img class="d-block w-100" src="img/5.jpeg" alt="Third slide">
+           <img class="d-block w-100" src="images/stake2.jpg" alt="Third slide">
            </div>
         </div>
          <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -57,8 +57,8 @@ require "header.php";
      <div class="col-sm">
     	<div class="arranging"><br><hr>
 	<h4 class="text-center">Our Story</h4>
-	<p><br>The restaurant Lakers, first opened in 2021.<br><br>
-	The restaurant was founded by two brothers Ubaydullaev Bekhzod and Tursunkhodjaev Sardorkhon. The restaurant located in the 1th floor of the Inha University in Tashkent and designed by award-winning architectural firm Beauty.<br><br><br></p><hr>
+	<p><br>The steakhouse Lakers, first opened in 2021.<br><br>
+	The steakhouse was founded by two brothers Ubaydullaev Bekhzod and Tursunkhodjaev Sardorkhon. The restaurant located in the 1th floor of the Inha University in Tashkent and designed by award-winning architectural firm Beauty.<br><br><br></p><hr>
 	</div>
      </div>
     </div><br>
@@ -75,20 +75,20 @@ require "header.php";
     <h3 class="text-center"><br>Gallery<br><br></h3>
         <div class="d-flex flex-row flex-wrap justify-content-center">
            <div class="d-flex flex-column">
-              <img src="img/1.jpg" class="img-fluid">
-              <img src="img/2.png" class="img-fluid">
+              <img class="pic" src="images/steak3.jpeg" class="img-fluid">
+              <img class="pic" src="images/steak14.jpg" class="img-fluid">
            </div>
            <div class="d-flex flex-column">
-              <img src="img/3.jpeg" class="img-fluid">
-              <img src="img/4.jpeg" class="img-fluid">
+              <img class="pic" src="images/steak5.jpg" class="img-fluid">
+              <img class="pic" src="images/steak11.jpg" class="img-fluid">
            </div>
            <div class="d-flex flex-column">
-               <img src="img/5.jpeg" class="img-fluid">
-               <img src="img/6.jpeg" class="img-fluid">
+               <img class="pic" src="images/steak13.jpg" class="img-fluid">
+               <img class="pic" src="images/steak15.png" class="img-fluid">
            </div>
            <div class="d-flex flex-column">
-               <img src="img/7.jpeg" class="img-fluid">
-               <img src="img/8.jpeg" class="img-fluid">
+               <img class="pic" src="images/steak9.jpg" class="img-fluid">
+               <img class="pic" src="images/steak10.jpg" class="img-fluid">
            </div>
         </div>
     </div>
@@ -97,7 +97,7 @@ require "header.php";
 
 <div class="container" id="reservation">
     <h3 class="text-center"><br><br>Reservation<br><br></h3>
-    <img  src="img/16.jpg" class="img-fluid rounded">
+    <img id="design" src="images/rest.jpg" class="img-fluid rounded">
     <button type="button" onclick="window.location.href='reservation.php'" class="btn btn-outline-dark btn-block btn-lg">Make a reservation Now!</button>
         
 </div><br><br>
