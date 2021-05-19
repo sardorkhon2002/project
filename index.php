@@ -5,7 +5,7 @@ require "header.php";
 <header class="header">
     <div class="row">
         <div class="col-md-12 text-center">
-   <a class="logo"><img src="img/logo1.png" alt="logo"></a>
+   <a class="logo"><img src="images/logo1.png" alt="logo"></a>
    </div>
         <div class="col-md-12 text-center">
             <button type="button" onclick="window.location.href='reservation.php'" class="btn btn-outline-light btn-lg"><em>Make a Reservation Now!</em></button>
