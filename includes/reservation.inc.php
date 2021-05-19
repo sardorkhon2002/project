@@ -1,6 +1,7 @@
 <?php
 
 session_start();
+ob_start();
 
 //between function.. elenxei an oi xaraktires einai mesa sta oria p thetoume
 function between($val, $x, $y){

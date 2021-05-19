@@ -1,4 +1,5 @@
 <?php
+ob_start();
 if (isset($_POST['login-submit'])) {
     
     require 'dbh.inc.php';
@@ -26,7 +27,8 @@ if (isset($_POST['login-submit'])) {
             if($row = mysqli_fetch_assoc($result)) {
                 $pwdCheck = password_verify($password, $row['pwdUsers']);
                 if($pwdCheck == false){
-                    header("Location: ../index.php?error1=wrongpwd");
+                    /*echo("<script>location.href = '../index.php?error1=wrongpwd?msg=$msg';</script>");*/
+                    header("Location: /index.php?error1=wrongpwd");
                     exit();   
                 }
                 else if($pwdCheck == true) {

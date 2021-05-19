@@ -1,5 +1,5 @@
 <?php
-
+ob_start();
 //post tables
 
 if(isset($_POST['tables'])){

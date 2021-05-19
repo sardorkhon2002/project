@@ -1,5 +1,5 @@
 <?php
-
+ob_start();
 //between function.. elenxei an oi xaraktires einai mesa sta oria p thetoume
 function between($val, $x, $y){
     $val_len = strlen($val);
@@ -55,7 +55,8 @@ if(isset($_POST['signup-submit'])) {//elenxw an exei bei sti selida mesw tou sub
            mysqli_stmt_store_result($stmt);
            $resultCheck = mysqli_stmt_num_rows($stmt);
              if($resultCheck != 0){
-                header("Location: ../index.php?error=usernameemailtaken");
+                /*echo("<script>location.href = '../index.php?error=usernameemailtaken?msg=$msg';</script>");*/
+                header("Location: /index.php?error=usernameemailtaken");
                 exit();
            }
           
@@ -73,7 +74,8 @@ if(isset($_POST['signup-submit'])) {//elenxw an exei bei sti selida mesw tou sub
                             
                     mysqli_stmt_bind_param($stmt, "sss", $username, $email, $hashedPwd);
                     mysqli_stmt_execute($stmt);
-                    header("Location: ../index.php?signup=success");
+                    /*echo("<script>location.href = '../index.php?signup=success?msg=$msg';</script>");*/
+                    header("Location: /index.php?signup=success");
                     exit();
                 }
                 
