@@ -2,7 +2,7 @@
 {
 	margin:0;
 	padding:0;
-    /*font-family: "Times New Roman", Times, serif;*/
+	box-sizing: border-box;
 }
 
 /*body*/
@@ -49,10 +49,6 @@ h3{
 	background-color:white;
 }
 
-.navbar-brand {
-/*font-family: "Brush Script MT", "Brush Script Std", cursive;*/
-}
-
 .navbar .navbar-nav .active{
 	border-bottom:1px solid  white;
 }
@@ -66,13 +62,7 @@ h3{
 	color:black;
 }
 
-.navbar .navbar-nav  li a{
-}
-
-
-
 .header-button .btn{
-    
 margin-top:40vh;
 }
 
@@ -98,7 +88,6 @@ color:black;
 }
 
 .social-icon .fa{
-
 	color:black;
 	width:50px;
 	height:50px;
@@ -126,3 +115,12 @@ color:black;
 	border-radius: 10px;
 }
 
+.line {
+	height: 4px;
+	width: 90px;
+	border-radius: 10px;
+	background: #552582;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 15px;
+}

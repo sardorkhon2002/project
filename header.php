@@ -27,7 +27,7 @@
         }
 
 .logo img{
-	 width:150px;
+	 width:350px;
 	 height:250px;
 	margin-top:90px;
 	margin-bottom:40px;
@@ -38,7 +38,7 @@
  <!---navbar--->   
 <nav class="navbar navbar-expand-md navbar-light fixed-top">
         <div class="container">
-            <a class="navbar-brand" href="index.php">
+            <a class="navbar-brand" href="index.php" style="color: #552582">
 		<strong><em>Lakers</em></strong>
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navi">

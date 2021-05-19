@@ -20,7 +20,7 @@ require "header.php";
 <section id="aboutus">
 
  <div class="container">
-   <h3 class="text-center"><br><br>Lakers</h3>
+   <h3 class="text-center" style="color: #fdb827; text-shadow: none; font-weight: 700; font-size: 2.5em"><br>Lakers</h3>
    <div class="row">
 <!--carousel-->
      <div class="col-sm"><br><br>
@@ -57,6 +57,7 @@ require "header.php";
      <div class="col-sm">
     	<div class="arranging"><br><hr>
 	<h4 class="text-center">Our Story</h4>
+  <div class="line"></div>
 	<p><br>The steakhouse Lakers, first opened in 2021.<br><br>
 	The steakhouse was founded by two brothers Ubaydullaev Bekhzod and Tursunkhodjaev Sardorkhon. The restaurant located in the 1th floor of the Inha University in Tashkent and designed by award-winning architectural firm Beauty.<br><br><br></p><hr>
 	</div>
@@ -72,7 +73,8 @@ require "header.php";
 <!----gallery -->
 <div class id="gallery"><br>
     <div class="container">
-    <h3 class="text-center"><br>Gallery<br><br></h3>
+    <h3 class="text-center"><br>Gallery</h3>
+    <div class="line"></div>
         <div class="d-flex flex-row flex-wrap justify-content-center">
            <div class="d-flex flex-column">
               <img class="pic" src="images/steak3.jpeg" class="img-fluid">
@@ -96,7 +98,8 @@ require "header.php";
 <!----end of gallery -->
 
 <div class="container" id="reservation">
-    <h3 class="text-center"><br><br>Reservation<br><br></h3>
+    <h3 class="text-center"><br><br>Reservation</h3>
+    <div class="line"></div>
     <img id="design" src="images/rest.jpg" class="img-fluid rounded">
     <button type="button" onclick="window.location.href='reservation.php'" class="btn btn-outline-dark btn-block btn-lg">Make a reservation Now!</button>
         
@@ -108,7 +111,8 @@ require "header.php";
 <!-- main page map section-->
 <section class="map" id="footer">
     <div class="container">
-    <h3 class="text-center"><br><br>Find us!</h3><br>
+    <h3 class="text-center"><br><br>Find us!</h3>
+    <div class="line"></div>
         
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2995.6359508726323!2d69.33234131483745!3d41.33852900698657!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38aef48a8ed4d0e9%3A0x3772abeffc72e7b8!2z0KPQvdC40LLQtdGA0YHQuNGC0LXRgiDQmNC90YXQsA!5e0!3m2!1sru!2s!4v1620823284657!5m2!1sru!2s" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
