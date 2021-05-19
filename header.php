@@ -279,7 +279,6 @@
                                 <button type="submit" name="signup-submit" class="btn btn-dark btn-lg btn-block">Register Now</button>
                             </div>
                         </form>
-                            <div class="text-center">Already have an account? <a href="#">Sign in</a></div>
                     </div> 	
                 </div>        
                 <!-- Modal footer -->
